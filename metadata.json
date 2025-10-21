@@ -1,0 +1,7 @@
+{
+  "name": "Smart Attendance",
+  "description": "A smart attendance system using face recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
